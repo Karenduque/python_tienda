@@ -1,0 +1,9 @@
+{
+  "url": "https://www.saucedemo.com/",
+  "browser": "chrome",
+  "driver_timeout": "5",
+  "password": "123_",
+  "wait_time": "4",
+   "proxy": "127.0.0.1:9000",
+   "use_proxy": false
+}
